@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="GapForge.API/GapForge.API.csproj" />
+  <Project Path="GapForge.Apllication/GapForge.Apllication.csproj" Id="3ad07203-055f-4d0e-a392-dadb95aa4dd4" />
+  <Project Path="GapForge.Core/GapForge.Core.csproj" />
+  <Project Path="GapForge.Infrastructure/GapForge.Infrastructure.csproj" />
+  <Project Path="GapForge.Jobs/GapForge.Jobs.csproj" />
+  <Project Path="GapForge.Web/GapForge.Web.csproj" />
+</Solution>
